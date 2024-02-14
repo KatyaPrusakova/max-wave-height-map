@@ -1,0 +1,7 @@
+
+# generated files
+__pycache__
+poetry.lock
+
+node_modules
+.DS_Store
