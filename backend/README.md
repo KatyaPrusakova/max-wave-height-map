@@ -6,8 +6,4 @@ poetry install --no-root
 
 poetry run uvicorn main:app --reload
 
-cd frontend
 
-npm install
-
-npm start
