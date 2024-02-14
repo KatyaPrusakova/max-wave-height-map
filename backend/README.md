@@ -1,9 +1,0 @@
-# max-wave-height-map
-
-cd backend
-
-poetry install --no-root
-
-poetry run uvicorn main:app --reload
-
-
