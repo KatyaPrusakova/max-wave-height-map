@@ -56,6 +56,11 @@ Open your browser and navigate to http://localhost:3000 to view the frontend int
 
 
 
+# Showcase
+
+![til](assets/web.gif) 
+
+
 # Improvement for Future
 
 
